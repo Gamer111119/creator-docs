@@ -1,7 +1,7 @@
 ---
 title: Roblox Avatars
 description: Create and upload avatar characters, clothing, and accessories to the Roblox Marketplace.
-hideBreadcrumbs: true
+hideBreadcrumbs: false
 ---
 
 <img src="../assets/accessories/Layered-Clothing-Banner2.png" alt="Roblox avatars" width="100%" />
@@ -12,9 +12,9 @@ Every Roblox user is represented by a customizable character called an **avatar*
 
 ## Creating
 
-Create avatar items for Roblox, ranging from clothing, accessories, bodies, and heads. Learn about the various components that power the feature-rich technology unique to Roblox avatars and cosmetics.
+Create games for Roblox players to enjoy, ranging from clothing, accessories, bodies, and heads. Learn about the various components that power the feature-rich technology unique to Roblox avatars and cosmetics.
 
-<GridContainer numColumns = '2'>
+<GridContainer numColumns = '3'>
 
 <Card >
   <CardMedia component='img' height='165' image='../../assets/art/avatar/Clothing-Thumbnail.png' alt="clothing thumbnail example"/>
@@ -113,7 +113,7 @@ Understand how IP works on the Roblox ecosystem to protect yourself and the comm
 </Card>
 </GridContainer>
 
-## Resources and Tools
+## Resources.
 
 Roblox provides additional resources and tools to enable creation. Check out the various Studio and third-party tools designed to expedite and ease the process of creation.
 
@@ -153,4 +153,5 @@ Roblox provides additional resources and tools to enable creation. Check out the
 </Card>
 <figure>
 </figure>
-</GridContainer>
+</>
+</create roblox games
